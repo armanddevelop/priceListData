@@ -29,6 +29,36 @@
       "name": "Concentrado de fresa",
       "price": 18,
       "presentation": "FRASCO DE 60 ML"
+    },
+    {
+      "id": 6,
+      "name": "Almendra",
+      "price": "$280",
+      "presentation": "KG"
+    },
+    {
+      "id": 7,
+      "name": "Anís Estrella",
+      "price": "$240",
+      "presentation": "KG"
+    },
+    {
+      "id": 7,
+      "name": "Anís Estrella",
+      "price": "$240",
+      "presentation": "KG"
+    },
+    {
+      "id": 8,
+      "name": "Anís Verde",
+      "price": "$200",
+      "presentation": "KG"
+    },
+    {
+      "id": 9,
+      "name": "Anís Verde",
+      "price": "$200",
+      "presentation": "KG"
     }
   ]
 }
