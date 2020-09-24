@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nuez Mitad",
+      "price": "$36",
+      "presentation": "KG"
+    },
+    {
+      "id": 2,
+      "name": "Ajo Granulado",
+      "price": 240,
+      "presentation": "KG"
+    },
+    {
+      "id": 3,
+      "name": "Ajonjolí Entero",
+      "price": 90,
+      "presentation": "KG"
+    },
+    {
+      "id": 4,
+      "name": "Arroz Progreso",
+      "price": 30,
+      "presentation": "PAQUETE"
+    },
+    {
+      "id": 5,
+      "name": "Concentrado de fresa",
+      "price": 18,
+      "presentation": "FRASCO DE 60 ML"
+    }
+  ]
+}
