@@ -3,31 +3,31 @@
     {
       "id": 1,
       "name": "Nuez Mitad",
-      "price": "$36",
+      "price": "$",
       "presentation": "KG"
     },
     {
       "id": 2,
       "name": "Ajo Granulado",
-      "price": 240,
+      "price": "$240",
       "presentation": "KG"
     },
     {
       "id": 3,
       "name": "Ajonjolí Entero",
-      "price": 90,
+      "price": "$90",
       "presentation": "KG"
     },
     {
       "id": 4,
       "name": "Arroz Progreso",
-      "price": 30,
+      "price": "$30",
       "presentation": "PAQUETE"
     },
     {
       "id": 5,
       "name": "Concentrado de fresa",
-      "price": 18,
+      "price": "$18",
       "presentation": "FRASCO DE 60 ML"
     },
     {
@@ -58,6 +58,384 @@
       "id": 9,
       "name": "Anís Verde",
       "price": "$200",
+      "presentation": "KG"
+    },
+    {
+      "id": 10,
+      "name": "Arándano deshidratado",
+      "price": "$150",
+      "presentation": "KG"
+    },
+    {
+      "id": 11,
+      "name": "Pepita de calabaza",
+      "price": "$200",
+      "presentation": "KG"
+    },
+    {
+      "id": 12,
+      "name": "Pepita de calabaza",
+      "price": "$200",
+      "presentation": "KG"
+    },
+    {
+      "id": 13,
+      "name": "Pepita de girasol",
+      "price": "$100",
+      "presentation": "KG"
+    },
+    {
+      "id": 14,
+      "name": "Avena Hojuela",
+      "price": "$24",
+      "presentation": "KG"
+    },
+    {
+      "id": 15,
+      "name": "Amaranto con miel",
+      "price": "$60",
+      "presentation": "KG"
+    },
+    {
+      "id": 16,
+      "name": "Amaranto natural",
+      "price": "$70",
+      "presentation": "KG"
+    },
+    {
+      "id": 17,
+      "name": "Dátil con hueso",
+      "price": "$130",
+      "presentation": "KG"
+    },
+    {
+      "id": 18,
+      "name": "Pasa",
+      "price": "$80",
+      "presentation": "KG"
+    },
+    {
+      "id": 19,
+      "name": "Ciruela Pasa sin hueso",
+      "price": "$100",
+      "presentation": "KG"
+    },
+    {
+      "id": 20,
+      "name": "Ciruela Pasa con hueso",
+      "price": "$100",
+      "presentation": "KG"
+    },
+    {
+      "id": 21,
+      "name": "Cacahuate horneado sin sal",
+      "price": "$80",
+      "presentation": "KG"
+    },
+    {
+      "id": 22,
+      "name": "Clavo entero 100 Gramos",
+      "price": "$40",
+      "presentation": "GR"
+    },
+    {
+      "id": 23,
+      "name": "Cacahuate horneado sin sal",
+      "price": "$80",
+      "presentation": "KG"
+    },
+    {
+      "id": 24,
+      "name": "Pimienta negra Entera 100 Gramos",
+      "price": "$30",
+      "presentation": "GR"
+    },
+    {
+      "id": 25,
+      "name": "Pimienta negra Molida 100 Gramos",
+      "price": "$30",
+      "presentation": "GR"
+    },
+    {
+      "id": 26,
+      "name": "Comino entero 100 Gramos",
+      "price": "$12",
+      "presentation": "GR"
+    },
+    {
+      "id": 27,
+      "name": "Tomillo Seco Entero 100 Gramos",
+      "price": "$20",
+      "presentation": "GR"
+    },
+    {
+      "id": 28,
+      "name": "Jengibre Seco Entero 100 Gramos",
+      "price": "$22",
+      "presentation": "GR"
+    },
+    {
+      "id": 29,
+      "name": "Jengibre Molido 100 Gramos",
+      "price": "$10",
+      "presentation": "GR"
+    },
+    {
+      "id": 30,
+      "name": "Mejorana Entera 100 Gramos",
+      "price": "$10",
+      "presentation": "GR"
+    },
+    {
+      "id": 31,
+      "name": "Ajonjolí Entero 100 Gramos",
+      "price": "$9",
+      "presentation": "GR"
+    },
+    {
+      "id": 32,
+      "name": "Chile Mirasol",
+      "price": "$140",
+      "presentation": "KG"
+    },
+    {
+      "id": 33,
+      "name": "Chile de árbol seco",
+      "price": "$160",
+      "presentation": "KG"
+    },
+    {
+      "id": 34,
+      "name": "Chile de árbol seco sin cabo",
+      "price": "$160",
+      "presentation": "KG"
+    },
+    {
+      "id": 35,
+      "name": "Chile Puya",
+      "price": "$140",
+      "presentation": "Pieza"
+    },
+    {
+      "id": 36,
+      "name": "Chilacate chino ancho  rojo",
+      "price": "$180",
+      "presentation": "KG"
+    },
+    {
+      "id": 37,
+      "name": "Chilacate mulato",
+      "price": "$180",
+      "presentation": "KG"
+    },
+    {
+      "id": 38,
+      "name": "Chilacate pasilla",
+      "price": "$180",
+      "presentation": "KG"
+    },
+    {
+      "id": 39,
+      "name": "Chiles de árbol Tostado",
+      "price": "$12",
+      "presentation": "Bolsa de 50gr"
+    },
+    {
+      "id": 40,
+      "name": "Ajos",
+      "price": "$100",
+      "presentation": "KG"
+    },
+    {
+      "id": 41,
+      "name": "Sal con Ajo",
+      "price": "$70",
+      "presentation": "KG"
+    },
+    {
+      "id": 42,
+      "name": "Ajo granulado",
+      "price": "$240",
+      "presentation": "KG"
+    },
+    {
+      "id": 43,
+      "name": "Tamarindo",
+      "price": "$22",
+      "presentation": "KG"
+    },
+    {
+      "id": 44,
+      "name": "Jamaica Sudán",
+      "price": "$140",
+      "presentation": "KG"
+    },
+    {
+      "id": 45,
+      "name": "Coco Horneado",
+      "price": "$80",
+      "presentation": "KG"
+    },
+    {
+      "id": 46,
+      "name": "Coco rayado Blanco",
+      "price": "$66",
+      "presentation": "KG"
+    },
+    {
+      "id": 47,
+      "name": "Coco De aceite",
+      "price": "$80",
+      "presentation": "KG"
+    },
+    {
+      "id": 48,
+      "name": "Piloncillo Blanco",
+      "price": "$28",
+      "presentation": "KG"
+    },
+    {
+      "id": 49,
+      "name": "Piloncillo Moreno",
+      "price": "$28",
+      "presentation": "KG"
+    },
+    {
+      "id": 50,
+      "name": "Lenteja Chica",
+      "price": "$28",
+      "presentation": "KG"
+    },
+    {
+      "id": 51,
+      "name": "Haba",
+      "price": "$84",
+      "presentation": "KG"
+    },
+    {
+      "id": 52,
+      "name": "Garbanza",
+      "price": "$28",
+      "presentation": "KG"
+    },
+    {
+      "id": 53,
+      "name": "Maíz Palomero",
+      "price": "$25",
+      "presentation": "KG"
+    },
+    {
+      "id": 54,
+      "name": "Alubia Chica",
+      "price": "$30",
+      "presentation": "KG"
+    },
+    {
+      "id": 55,
+      "name": "Frijol Texano",
+      "price": "$34",
+      "presentation": "KG"
+    },
+    {
+      "id": 56,
+      "name": "Frijol Peruano Bola",
+      "price": "$36",
+      "presentation": "KG"
+    },
+    {
+      "id": 57,
+      "name": "Frijol Higuera",
+      "price": "$40",
+      "presentation": "KG"
+    },
+    {
+      "id": 58,
+      "name": "Frijol Azufrado",
+      "price": "$34",
+      "presentation": "KG"
+    },
+    {
+      "id": 59,
+      "name": "Mix Frutos secos",
+      "price": "$58",
+      "presentation": "250 gr"
+    },
+    {
+      "id": 60,
+      "name": "Canela Entera",
+      "price": "$100",
+      "presentation": " 100 gr"
+    },
+    {
+      "id": 61,
+      "name": "Canela Molida Pura",
+      "price": "$280",
+      "presentation": "KG"
+    },
+    {
+      "id": 62,
+      "name": "Vainilla líquida ",
+      "price": "$5",
+      "presentation": "Frasco 125 ML"
+    },
+    {
+      "id": 63,
+      "name": "Concentrado Vainilla",
+      "price": "$18",
+      "presentation": "Frasco 60 ML"
+    },
+    {
+      "id": 64,
+      "name": "Concentrado Piña",
+      "price": "$18",
+      "presentation": "KG"
+    },
+    {
+      "id": 65,
+      "name": "Concentrado Fresa",
+      "price": "$18",
+      "presentation": "KG"
+    },
+    {
+      "id": 66,
+      "name": "Concentrado Coco",
+      "price": "$18",
+      "presentation": "KG"
+    },
+    {
+      "id": 67,
+      "name": "Concentrado Jerez",
+      "price": "$18",
+      "presentation": "KG"
+    },
+    {
+      "id": 68,
+      "name": "Concentrado Limón",
+      "price": "$18",
+      "presentation": "KG"
+    },
+    {
+      "id": 69,
+      "name": "Arroz Progreso",
+      "price": "$30",
+      "presentation": "Bolsa de 1 KG"
+    },
+    {
+      "id": 70,
+      "name": "Arroz Rey Blanco ",
+      "price": "$27",
+      "presentation": "Bolsa de 1 KG"
+    },
+    {
+      "id": 71,
+      "name": "Sal de Grano",
+      "price": "$5",
+      "presentation": "KG"
+    },
+    {
+      "id": 72,
+      "name": "Grenetina",
+      "price": "$180",
       "presentation": "KG"
     }
   ]
